@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-  <title>Welcome to my blog</title>
+  <title>XuDong&#39;s Blog</title>
   
-  
+  <subtitle>心有所向，日复一日，必有精进！</subtitle>
   <link href="https://woxudo.github.io/atom.xml" rel="self"/>
   
   <link href="https://woxudo.github.io/"/>
